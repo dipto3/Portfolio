@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "designation":"Intern",
+        "company":"Prefeex LTD",
+        "duration":"2023(March)-2023(July)",
+        "location":"Dhaka",
+        "responsiblity":"Learned new skills, testing techniques and troubleshooting best practices.Tested code for bugs or technical issues, debugging to fix errors and boost performance."
+
+    },
+    {
+        "id":2,
+        "designation":"Junior Software Developer",
+        "company":"Prefeex LTD",
+        "duration":"2023(August)-Present",
+        "location":"Dhaka",
+        "responsiblity":"Assisted in all software development project aspects, such as planning, design and building.Tested code for bugs or technical issues, debugging to fix errors and boost performance."
+
+    }
+]

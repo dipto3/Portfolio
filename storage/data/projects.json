@@ -1,0 +1,20 @@
+    [
+        {
+            "id":1,
+            "name": "Simple E-commerce",
+            "description": "This project is mainly used for any type of ecommerce-management system.Technology i used for this system- Frontend: Html,Css,Bootstrap Backend: Framework(Laravel) Database: Mysql Github link: https://github.com/dipto3/Ecommerc.",
+            "image": "assets/projects/1.jpg"
+        },
+        {
+            "id":2,
+            "name": "Doctor Appointments",
+            "description": "This project is mainly used for doctor appointment system .Technology i used for this system- Frontend: Html,Css,Bootstrap Backend: Framework(Laravel) Database: Mysql Github link: https://github.com/dipto3/Hospital-management.",
+            "image": "assets/projects/2.jpg"
+        },
+        {
+            "id":3,
+            "name": "Portfolio",
+            "description": "A gallery or list showcasing past projects and Skills.Technology i used for this system- Frontend: Html,Css,Bootstrap Backend: Framework(Laravel) Database: Mysql",
+            "image": "assets/projects/3.jpg"
+        }
+    ]
